@@ -11,7 +11,7 @@ const PT = {
   'radar.live': "Ver ao vivo",
   'radar.code': "Código",
   'radar.arch': "Arquitetura e decisões",
-  'radar.desc': "Os dados públicos de chuva e de rios do Brasil estão espalhados em portais difíceis de ler. O Radar reúne as fontes oficiais (CEMADEN, Defesa Civil RS, ANA) em um mapa que responde de relance: quanto choveu na minha cidade e como está o rio? Onde não há pluviômetro, uma estimativa por modelo cobre a lacuna, sempre identificada como estimativa, e o que falta de dado aparece como falta, não como ausência de chuva.",
+  'radar.desc': "Os dados públicos de tempo e hidrologia do Brasil estão espalhados em portais difíceis de ler. O Radar reúne as fontes oficiais (CEMADEN, Defesa Civil RS, ANA) e um modelo de previsão em um mapa ao vivo do estado do Rio Grande do Sul, com os 497 municípios. Mostra o que está acontecendo agora (chuva acumulada, nível dos rios) e o que deve vir (previsão de chuva para as próximas 6 e 24 horas), junto com a suscetibilidade do terreno a inundações e deslizamentos (movimento de massa) nos municípios em que o Serviço Geológico publicou cartas. Onde não há pluviômetro, uma estimativa por modelo cobre a lacuna e aparece identificada como estimativa; o que falta de dado aparece como falta, nunca como “sem chuva”.",
   'sec.others': "Outros projetos",
   'o.rejoga.tag': "em produção · código privado",
   'o.rejoga.d': "Marketplace de boardgames para o mercado brasileiro: anúncios, pedidos, logística, notificações, suporte, mediação e painel administrativo.",
